@@ -1,0 +1,6 @@
+{
+  "name": "TacticEye",
+  "description": "AI tactical assistant for auto-battlers. Analyze board formations and get instant strategic advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
